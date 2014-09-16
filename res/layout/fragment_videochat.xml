@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.licodeclient.VideoGridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/videochat_grid"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:targetApi="11" >
+
+</com.example.licodeclient.VideoGridLayout>

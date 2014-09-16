@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item 
+        	android:id="@+id/action_vchat_connect"
+        	android:icon="@android:drawable/ic_media_play"
+            android:title="@string/videochat_off"
+            android:visible="false"/>
+    
+    <item 
+        	android:id="@+id/action_vchat_disconnect"
+        	android:icon="@android:drawable/ic_media_pause"
+            android:title="@string/videochat_on"
+            android:visible="false"/>
+</menu>
